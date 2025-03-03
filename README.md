@@ -43,5 +43,8 @@ I am a **Full Stack Developer** and **Project Lead** with expertise in designing
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bilalraven)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bilalhaider1311@gmail.com)
 
+
+Check out my [gitlab](https://gitlab.com/bilal-haider-cowlar) for activity. Mine Github Seems Dead lol.
+
 🚀 **Let's build something amazing together!**
 
